@@ -17,4 +17,3 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # boat-rush
 A 2D endless boat runner inspired by classic mobile arcade games. Dodge obstacles, collect coins, and survive as long as possible.
->>>>>>> 539b68356086972a6196bcf4d762a6e5437f74b6
